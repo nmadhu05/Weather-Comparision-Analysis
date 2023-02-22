@@ -4,5 +4,5 @@ Perform weather comparision analysis for selected four cities Auckland, Wellingt
 
 DATA is acquired from Open Weather website using their APIs
 
-#Problem Statement:
+# Problem Statement:
 What are the weather conditions like in the selected cities and compare them
